@@ -1,0 +1,19 @@
+{
+  "name": "teaa-dili",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengwei497/teaa-dili.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "ttps://github.com/zengwei497/teaa-dili/issues"
+  },
+  "homepage": "ttps://github.com/zengwei497/teaa-dili#readme"
+}
