@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zengwei497/teaa-dili.git"
